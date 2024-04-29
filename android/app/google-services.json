@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "410947598435",
+    "project_id": "wl-nasa-tlx",
+    "storage_bucket": "wl-nasa-tlx.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:410947598435:android:4d275df7631f11a2e96056",
+        "android_client_info": {
+          "package_name": "com.example.nasa_tlx"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBoNQN-poj6aLX9JNsFi5QhfIhLEZFUSSc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
